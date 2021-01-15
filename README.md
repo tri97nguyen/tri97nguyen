@@ -3,7 +3,9 @@
 I enjoy building fullstack application and focus particularly on the JavaScript MERN stack (MongoDB, Express, React, Node.) 
 In addition, I have experience in design patterns and working with MVC enterprise framework like ASP.Net Core.
 
-<img src="./pfp.jpg" width="400">
+<p align="center">
+  <img src="./pfp.jpg" width="400" />
+</p>
 
 ## Self-taught Project: Restaurant App (MERN stack and Google Firestore Serverless Technology)
 
