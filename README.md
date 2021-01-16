@@ -34,8 +34,8 @@ This project is where I really had a chance to flex these design pattern skills.
 Again, I had a chance to collaborate with 3 other wonderful classmates. We went from pair programming to "mob" programming and learn how to function as a team member. Without them, this project wouldn't have finished.
 
 
-[![TriNguyen's github stats](https://github-readme-stats.vercel.app/api?username=tri97nguyen)](https://github.com/tri97nguyen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri97nguyen&layout=compact)](https://github.com/tri97nguyen/github-readme-stats)
+[![TriNguyen's github stats](https://github-readme-stats.vercel.app/api?username=tri97nguyen&theme=gruvbox)](https://github.com/tri97nguyen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri97nguyen&layout=compact&theme=gruvbox)](https://github.com/tri97nguyen/github-readme-stats)
 
 ### Contact me via [LinkedIn](https://www.linkedin.com/in/tri97nguyen/):speech_balloon:
 ### Read my [resume](https://myccsu-my.sharepoint.com/:w:/g/personal/trungminhtri_nguyen_my_ccsu_edu/EcBChPiDZR1HnlYW1ap-VWUBXyuqwTG8cSCtRx2T-YfOKQ?e=Fe6gsB):roll_of_paper:
