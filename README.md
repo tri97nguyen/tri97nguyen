@@ -1,4 +1,4 @@
-# Hi! I'm Tri (like a tree) 👋
+# Hi! I'm Tri (like a tree) 👋 
 
 I enjoy building fullstack application and focus particularly on the JavaScript MERN stack (MongoDB, Express, React, Node.) 
 In addition, I have experience in design patterns and working with MVC enterprise framework like ASP.Net Core.
@@ -34,12 +34,12 @@ This project is where I really had a chance to flex these design pattern skills.
 Again, I had a chance to collaborate with 3 other wonderful classmates. We went from pair programming to "mob" programming and learn how to function as a team member. Without them, this project wouldn't have finished.
 
 
-[![TriNguyen's github stats](https://github-readme-stats.vercel.app/api?username=tri97nguyen&theme=gruvbox)](https://github.com/tri97nguyen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri97nguyen&layout=compact&theme=gruvbox)](https://github.com/tri97nguyen/github-readme-stats)
+[![TriNguyen's github stats](https://github-readme-stats.vercel.app/api?username=tri97nguyen&theme=dracula)](https://github.com/tri97nguyen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri97nguyen&layout=compact&theme=dracula)](https://github.com/tri97nguyen/github-readme-stats)
 
 ### Contact me via [LinkedIn](https://www.linkedin.com/in/tri97nguyen/):speech_balloon:
 ### Read my [resume](https://myccsu-my.sharepoint.com/:w:/g/personal/trungminhtri_nguyen_my_ccsu_edu/EcBChPiDZR1HnlYW1ap-VWUBXyuqwTG8cSCtRx2T-YfOKQ?e=Fe6gsB):roll_of_paper:
-
+![](https://komarev.com/ghpvc/?username=tri97nguyen&color=brightgreen)
 
 <!--
 **tri97nguyen/tri97nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
