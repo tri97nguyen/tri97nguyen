@@ -9,7 +9,7 @@ In addition, I have experience in design patterns and working with MVC enterpris
 
 ## Self-taught Project: Restaurant App (MERN stack and Google Firestore Serverless Technology) :love_you_gesture::love_you_gesture:
 
-[![Restaurant Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=restaurant-frontend)](https://github.com/tri97nguyen/restaurant-frontend)
+[![Restaurant Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=restaurant-frontend&theme=radical)](https://github.com/tri97nguyen/restaurant-frontend)
 
 [CodeSandbox for Live code](https://codesandbox.io/s/restaurant-frontend-77hgs) 
 
@@ -17,7 +17,7 @@ My proudest project is a restaurant application where I had to do everything mys
 
 ## Software Engineering Project working with real-world client (ASP.NET CORE) :dancers:
 
-[![OIRA Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=OIRA)](https://github.com/tri97nguyen/OIRA)
+[![OIRA Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=OIRA&theme=radical)](https://github.com/tri97nguyen/OIRA)
 
 I have done a 2-semseter long project using ASP.Net Core to build a student assessment software for my university. I led a team  of 4 to develop the foundational codebase for the system. Coming into the project, I'd never worked with .NET Core, so it was a steep learning experience but also a rewarding one. 
 
@@ -25,7 +25,7 @@ Aside from teaching myself ASP.NET Core, the MVC pattern and MySQL afterclass, I
 
 ## Software Engineering Project focusing on Design Patterns (Java) :hotsprings:
 
-[![Design Pattern Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=final-project-team-2-1)](https://github.com/tri97nguyen/final-project-team-2-1)
+[![Design Pattern Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=final-project-team-2-1&theme=radical)](https://github.com/tri97nguyen/final-project-team-2-1)
 
 [UML class design](https://lucid.app/lucidchart/invitations/accept/84977170-9a9d-4918-9ddd-b2a754cbd462)
 
