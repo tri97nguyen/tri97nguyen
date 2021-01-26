@@ -7,7 +7,11 @@ In addition, I have experience in design patterns and working with MVC enterpris
   <img src="./pfp.jpg" width="400" />
 </p>
 
-## Self-taught Project: Restaurant App (MERN stack and Google Firestore Serverless Technology) :love_you_gesture::love_you_gesture:
+## Experience: Software Engineer Intern at Skipli
+My responsibility is creating a React application for a Point Of Sale system. I implemented the UI from scratch with no dependency on third party library like Bootstrap, and worked in a team of three to deliver the application.
+
+
+## Project: Restaurant App (MERN stack and Google Firestore Serverless Technology) :love_you_gesture::love_you_gesture:
 
 [![Restaurant Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tri97nguyen&repo=restaurant-frontend&theme=radical)](https://github.com/tri97nguyen/restaurant-frontend)
 
